@@ -16,6 +16,8 @@ import { AngularFireModule} from 'angularfire2';
 import { firebaseConfig } from './../environments/firebase.config';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { FormsModule} from '@angular/forms';
+import { PareComponent } from './pare/pare.component';
+import { EieiComponent } from './eiei/eiei.component';
 
 
 
@@ -29,6 +31,8 @@ import { FormsModule} from '@angular/forms';
     HomeComponent,
     RegisterComponent,
     UsersComponent,
+    PareComponent,
+    EieiComponent,
    
    
    
