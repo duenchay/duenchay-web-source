@@ -17,6 +17,9 @@ import { firebaseConfig } from './../environments/firebase.config';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { FormsModule} from '@angular/forms';
 
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,6 +29,11 @@ import { FormsModule} from '@angular/forms';
     HomeComponent,
     RegisterComponent,
     UsersComponent,
+   
+   
+   
+    
+   
   ],
   imports: [
     BrowserModule,

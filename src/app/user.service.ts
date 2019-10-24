@@ -8,20 +8,40 @@ export class UserService {
 
   friends = [
     {
-      name: 'Duenchay Wongtree',
+      name: 'แพรรี่',
       pic: 'pare.jpg',
-      position: 'CEO',
+      // position: 'CEO',
     },
     {
-      name: 'Thidarat Ruamsamrong',
+      name: 'เกดจัง',
       pic: 'ket.jpg',
-      position: 'Secretary',
+      // position: 'Secretary',
     },
     {
-      name: 'Toranit Wongkhamsa',
+      name: 'เจ้าคิง',
       pic: 'king.jpg',
-      position: 'IT Support',
-    }
+      // position: 'IT Support',
+    },
+    {
+      name: 'เบนซ์ศรี',
+      pic: 'alisa.jpg',
+      
+    },
+    {
+      name: 'ติ๊กเกอร์',
+      pic: 'tik.jpg',
+      
+    },
+    {
+      name: 'เหมียวหมิว',
+      pic: 'sirilak.jpg',
+      
+    },
+    {
+      name: 'ปัดทามาวันนน',
+      pic: 'pat.jpg',
+      
+    },
   ];
   users: any
 
