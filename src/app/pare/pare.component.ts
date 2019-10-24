@@ -13,3 +13,4 @@ export class PareComponent implements OnInit {
   }
 
 }
+ 

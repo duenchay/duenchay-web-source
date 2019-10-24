@@ -13,7 +13,7 @@ describe('PareComponent', () => {
     .compileComponents();
   }));
 
-  beforeEach(() => {
+  beforeEach(() => { 
     fixture = TestBed.createComponent(PareComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
